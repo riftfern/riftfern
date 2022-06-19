@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riftfern, I am in aspiring full stack web developer, look for their first programming job.
-- 👀 I’m interested in, HTML, CSS, Javascript, Node, Smart Contract Development, BlockChains (The last three I haven't gotten to learning yet.)
+- 👀 I’m interested in, HTML, CSS, Javascript.
 - 🌱 I’m currently working through Odin Projects Full Stack Curriculum, on the Intermediate HTML/CSS lesson
 - 📫 How to reach me, adriftfern@gmail.com
 
