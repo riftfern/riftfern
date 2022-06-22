@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riftfern, I am in aspiring full stack web developer, look for their first programming job.
+- 👋 Hi, I’m @riftfern, I am an aspiring full stack web developer, looking for their first programming job.
 - 👀 I’m interested in, HTML, CSS, Javascript.
 - 🌱 I’m currently working through Odin Projects Full Stack Curriculum, on the Intermediate HTML/CSS lesson
 - 📫 How to reach me, adriftfern@gmail.com
