@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Jack Gerow (@riftfern), I am an aspiring Software Engineer, looking for their first programming job.
-- I’m interested in, HTML, CSS, Javascript, and React.
--  I’m currently working through Odin Projects Full Stack Curriculum, 
+-  Hi, my name is Jack Gerow (@riftfern), I am an aspiring Front End Developer 
+- I’m interested in Javascript, Python and React.
 -  How to reach me, adriftfern@gmail.com
 
 <!---
