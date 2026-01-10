@@ -1,27 +1,23 @@
-# Hi, I'm Jack Gerow
+Jack Gerow
+Software Engineer | NYC
+Real-time data systems. Pattern detection. Edge finding.
 
-## Software Engineer | Full-Stack Development & Algorithmic Trading
+What I Build
+NY Sharp Edge — Real-time odds aggregation across 9 NY sportsbooks. React/TypeScript frontend, Node.js/Express backend. Implements EV calculations, no-vig fair odds, Kelly Criterion sizing, and arbitrage detection.
+Binance Data Streams — Python pipeline monitoring WebSocket streams for liquidation events, whale trades, and funding rate anomalies. Live dashboard for visualizing market signals.
+Basketball & Tennis Prediction Models — Python-based forecasting tools using statistical modeling and external APIs for feature extraction and backtesting.
 
-I'm a developer passionate about building real solutions through code. My journey started with frontend development and has expanded into algorithms, data analysis, and backend systems.
+Tech Stack
+Languages: Python, TypeScript, JavaScript, SQL
+Frontend: React, HTML/CSS, Tailwind
+Backend: Node.js, Express, REST APIs, WebSockets
+Tools: Git, Linux, Pandas, NumPy
 
-### Current Projects
-- Building algorithmic trading tools in Python for backtesting and market analysis
-- Developing full-stack applications with React and Node.js
-- Exploring blockchain technologies and decentralized systems
-- Sharpening problem-solving skills through algorithm challenges
 
-### Tech Stack
-**Frontend:** React, JavaScript, TypeScript, HTML5, CSS3  
-**Backend:** Node.js, Express  
-**Languages:** JavaScript, Python  
-**Tools & Methods:** Git, REST APIs, Responsive Design, Data Visualization
+Currently
+Studying algorithms and data structures (CLRS)
+Building on Hyperliquid
+Learning Rust
 
-### Learning & Growing
-- Advanced algorithms and data structures
-- System design patterns
-- Rust for performance-critical applications
-- Cryptocurrency protocols and DeFi
-
- adriftfern@gmail.com  
- New York, NY
-
+Contact
+adriftfern@gmail.com
